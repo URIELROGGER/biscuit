@@ -9,7 +9,7 @@ export default props => {
             <h2>{Titulo}</h2>
             <p>Descrição do produto...</p>
             <img src={require("../../images/biscuit.png")} alt="card-image" />
-            <p>10,00</p>
+            <p>100,00</p>
         </div>
     )
 }
